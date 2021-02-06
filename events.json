@@ -1,476 +1,476 @@
 [
     {
-        "class": "Co-op",
+        "course": "Co-op",
         "name": "﻿Book Resume Critique",
         "type": "💼 Co-op",
-        "endTime": 1610513940
+        "due": 1610513940
     },
     {
-        "class": "ECE 124",
+        "course": "ECE 124",
         "name": "Lab Group Registration",
         "type": "🧪 Lab",
-        "endTime": 1610773140
+        "due": 1610773140
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Sapling Assignment 1",
         "type": "📌 Assignment",
-        "endTime": 1611118740
+        "due": 1611118740
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Crowdmark Assignment 0",
         "type": "📌 Assignment",
-        "endTime": 1610773140
+        "due": 1610773140
     },
     {
-        "class": "CS 138",
+        "course": "CS 138",
         "name": "Assignment 1",
         "type": "📌 Assignment",
-        "endTime": 1611280800
+        "due": 1611280800
     },
     {
-        "class": "Co-op",
+        "course": "Co-op",
         "name": "Before CFE Survey and Resume Quiz",
         "type": "📝 Quiz",
-        "endTime": 1610773140
+        "due": 1610773140
     },
     {
-        "class": "Co-op",
+        "course": "Co-op",
         "name": "Attend Resume Critique",
         "type": "💼 Co-op",
-        "endTime": 1610773140
+        "due": 1610773140
     },
     {
-        "class": "Co-op",
+        "course": "Co-op",
         "name": "APPS DUE - Cycle 1 Posting 1",
         "type": "💼 Co-op",
-        "endTime": 1611064800
+        "due": 1611064800
     },
     {
-        "class": "ECE 140",
+        "course": "ECE 140",
         "name": "Pre-Lab 1",
         "type": "🧪 Lab",
-        "endTime": 1611205140
+        "due": 1611205140
     },
     {
-        "class": "ECE 124",
+        "course": "ECE 124",
         "name": "Lab 1 Report",
         "type": "🧪 Lab",
-        "endTime": 1611377940
+        "due": 1611377940
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Crowdmark Assignment 1",
         "type": "📌 Assignment",
-        "endTime": 1611377940
+        "due": 1611377940
     },
     {
-        "class": "ECE 124",
+        "course": "ECE 124",
         "name": "Lab 1 Quiz",
         "type": "📝 Quiz",
-        "endTime": 1611377940
+        "due": 1611377940
     },
     {
-        "class": "ECE 140",
+        "course": "ECE 140",
         "name": "Lab 3",
         "type": "🧪 Lab",
-        "endTime": 1615438740
+        "due": 1615438740
     },
     {
-        "class": "ECE 124",
+        "course": "ECE 124",
         "name": "Lab 2 Report",
         "type": "🧪 Lab",
-        "endTime": 1612587540
+        "due": 1612587540
     },
     {
-        "class": "CS 138",
+        "course": "CS 138",
         "name": "Quiz 3",
         "type": "📝 Quiz",
-        "endTime": 1618275600
+        "due": 1618275600
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Midterm",
         "type": "💫 Exam",
-        "endTime": 1614747600
+        "due": 1614747600
     },
     {
-        "class": "Co-op",
+        "course": "Co-op",
         "name": "Employer Rankings Available",
         "type": "💼 Co-op",
-        "endTime": 1613070000
+        "due": 1613070000
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Sapling Assignment 8",
         "type": "📌 Assignment",
-        "endTime": 1617163140
+        "due": 1617163140
     },
     {
-        "class": "CS 138",
+        "course": "CS 138",
         "name": "Assignment 6",
         "type": "📌 Assignment",
-        "endTime": 1617930000
+        "due": 1617930000
     },
     {
-        "class": "ECE 140",
+        "course": "ECE 140",
         "name": "Lab 5",
         "type": "🧪 Lab",
-        "endTime": 1617854340
+        "due": 1617854340
     },
     {
-        "class": "CS 138",
+        "course": "CS 138",
         "name": "Final",
         "type": "💫 Exam",
-        "endTime": 1617854400
+        "due": 1617854400
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Final Design Project",
         "type": "📌 Assignment",
-        "endTime": 1618286340
+        "due": 1618286340
     },
     {
-        "class": "CS 138",
+        "course": "CS 138",
         "name": "Assignment 2",
         "type": "📌 Assignment",
-        "endTime": 1612490400
+        "due": 1612490400
     },
     {
-        "class": "ECE 140",
+        "course": "ECE 140",
         "name": "Pre-Lab 4",
         "type": "🧪 Lab",
-        "endTime": 1616039940
+        "due": 1616039940
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Crowdmark Assignment 6",
         "type": "📌 Assignment",
-        "endTime": 1615006740
+        "due": 1615006740
     },
     {
-        "class": "ECE 140",
+        "course": "ECE 140",
         "name": "Midterm",
         "type": "💫 Exam",
-        "endTime": 1614401940
+        "due": 1614401940
     },
     {
-        "class": "CS 138",
+        "course": "CS 138",
         "name": "Assignment 4",
         "type": "📌 Assignment",
-        "endTime": 1615514400
+        "due": 1615514400
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Crowdmark Assignment 4",
         "type": "📌 Assignment",
-        "endTime": 1613192340
+        "due": 1613192340
     },
     {
-        "class": "ECE 140",
+        "course": "ECE 140",
         "name": "Lab 2",
         "type": "🧪 Lab",
-        "endTime": 1613019540
+        "due": 1613019540
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Crowdmark Assignment 3",
         "type": "📌 Assignment",
-        "endTime": 1612587540
+        "due": 1612587540
     },
     {
-        "class": "CS 138",
+        "course": "CS 138",
         "name": "Quiz 1",
         "type": "📝 Quiz",
-        "endTime": 1612836000
+        "due": 1612836000
     },
     {
-        "class": "ECE 124",
+        "course": "ECE 124",
         "name": "Lab 3 Report",
         "type": "🧪 Lab",
-        "endTime": 1615006740
+        "due": 1615006740
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Sapling Assignment 7",
         "type": "📌 Assignment",
-        "endTime": 1616558340
+        "due": 1616558340
     },
     {
-        "class": "Co-op",
+        "course": "Co-op",
         "name": "APPS DUE - Cycle 2 Posting 1",
         "type": "💼 Co-op",
-        "endTime": 1614088800
+        "due": 1614088800
     },
     {
-        "class": "ECE 140",
+        "course": "ECE 140",
         "name": "Pre-Lab 2",
         "type": "🧪 Lab",
-        "endTime": 1612414740
+        "due": 1612414740
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Sapling Assignment 9",
         "type": "📌 Assignment",
-        "endTime": 1617767940
+        "due": 1617767940
     },
     {
-        "class": "Co-op",
+        "course": "Co-op",
         "name": "Student Rankings Due",
         "type": "💼 Co-op",
-        "endTime": 1615575600
+        "due": 1615575600
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Lab 2",
         "type": "🧪 Lab",
-        "endTime": 1613105940
+        "due": 1613105940
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Sapling Assignment 5",
         "type": "📌 Assignment",
-        "endTime": 1614142740
+        "due": 1614142740
     },
     {
-        "class": "ECE 140",
+        "course": "ECE 140",
         "name": "Pre-Lab 3",
         "type": "🧪 Lab",
-        "endTime": 1614833940
+        "due": 1614833940
     },
     {
-        "class": "CS 138",
+        "course": "CS 138",
         "name": "Assignment 3",
         "type": "📌 Assignment",
-        "endTime": 1614304800
+        "due": 1614304800
     },
     {
-        "class": "Co-op",
+        "course": "Co-op",
         "name": "Student Rankings Due",
         "type": "💼 Co-op",
-        "endTime": 1613156400
+        "due": 1613156400
     },
     {
-        "class": "ECE 124",
+        "course": "ECE 124",
         "name": "Lab 4 Report",
         "type": "🧪 Lab",
-        "endTime": 1617249540
+        "due": 1617249540
     },
     {
-        "class": "ECE 140",
+        "course": "ECE 140",
         "name": "Final",
         "type": "💫 Exam",
-        "endTime": 1618459140
+        "due": 1618459140
     },
     {
-        "class": "CS 138",
+        "course": "CS 138",
         "name": "Quiz 2",
         "type": "📝 Quiz",
-        "endTime": 1616115600
+        "due": 1616115600
     },
     {
-        "class": "Co-op",
+        "course": "Co-op",
         "name": "APPS DUE - Cycle 2 Posting 2",
         "type": "💼 Co-op",
-        "endTime": 1614693600
+        "due": 1614693600
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Lab 3",
         "type": "🧪 Lab",
-        "endTime": 1616126340
+        "due": 1616126340
     },
     {
-        "class": "CS 138",
+        "course": "CS 138",
         "name": "Assignment 5",
         "type": "📌 Assignment",
-        "endTime": 1616720400
+        "due": 1616720400
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Crowdmark Assignment 8",
         "type": "📌 Assignment",
-        "endTime": 1616212740
+        "due": 1616212740
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Lab 1",
         "type": "🧪 Lab",
-        "endTime": 1611896340
+        "due": 1611896340
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Crowdmark Assignment 9",
         "type": "📌 Assignment",
-        "endTime": 1616817540
+        "due": 1616817540
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Crowdmark Assignment 7",
         "type": "📌 Assignment",
-        "endTime": 1615611540
+        "due": 1615611540
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Sapling Assignment 3",
         "type": "📌 Assignment",
-        "endTime": 1612328340
+        "due": 1612328340
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Sapling Assignment 10",
         "type": "📌 Assignment",
-        "endTime": 1618372740
+        "due": 1618372740
     },
     {
-        "class": "ECE 140",
+        "course": "ECE 140",
         "name": "Pre-Lab 5",
         "type": "🧪 Lab",
-        "endTime": 1617249540
+        "due": 1617249540
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Sapling Assignment 4",
         "type": "📌 Assignment",
-        "endTime": 1612933140
+        "due": 1612933140
     },
     {
-        "class": "Co-op",
+        "course": "Co-op",
         "name": "APPS DUE - Cycle 1 Posting 2",
         "type": "💼 Co-op",
-        "endTime": 1611669600
+        "due": 1611669600
     },
     {
-        "class": "ECE 140",
+        "course": "ECE 140",
         "name": "Lab 4",
         "type": "🧪 Lab",
-        "endTime": 1616644740
+        "due": 1616644740
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Final Exam",
         "type": "💫 Exam",
-        "endTime": 1619064000
+        "due": 1619064000
     },
     {
-        "class": "ECE 124",
+        "course": "ECE 124",
         "name": "Lab 3 Quiz",
         "type": "📝 Quiz",
-        "endTime": 1615006740
+        "due": 1615006740
     },
     {
-        "class": "ECE 124",
+        "course": "ECE 124",
         "name": "Lab 4 Quiz",
         "type": "📝 Quiz",
-        "endTime": 1617249540
+        "due": 1617249540
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Crowdmark Assignment 2",
         "type": "📌 Assignment",
-        "endTime": 1611982740
+        "due": 1611982740
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Crowdmark Assignment 10",
         "type": "📌 Assignment",
-        "endTime": 1618027140
+        "due": 1618027140
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Sapling Assignment 6",
         "type": "📌 Assignment",
-        "endTime": 1614747540
+        "due": 1614747540
     },
     {
-        "class": "ECE 124",
+        "course": "ECE 124",
         "name": "Lab 2 Quiz",
         "type": "📝 Quiz",
-        "endTime": 1612587540
+        "due": 1612587540
     },
     {
-        "class": "Co-op",
+        "course": "Co-op",
         "name": "Employer Rankings Available",
         "type": "💼 Co-op",
-        "endTime": 1615489200
+        "due": 1615489200
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Crowdmark Assignment 5",
         "type": "📌 Assignment",
-        "endTime": 1614401940
+        "due": 1614401940
     },
     {
-        "class": "ECE 140",
+        "course": "ECE 140",
         "name": "Lab 1",
         "type": "🧪 Lab",
-        "endTime": 1611809940
+        "due": 1611809940
     },
     {
-        "class": "MATH 119",
+        "course": "MATH 119",
         "name": "Sapling Assignment 2",
         "type": "📌 Assignment",
-        "endTime": 1611723540
+        "due": 1611723540
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Quiz 1",
         "type": "📝 Quiz",
-        "endTime": 1610946000
+        "due": 1610946000
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Quiz 2",
         "type": "📝 Quiz",
-        "endTime": 1611550800
+        "due": 1611550800
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Quiz 3",
         "type": "📝 Quiz",
-        "endTime": 1612155600
+        "due": 1612155600
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Quiz 4",
         "type": "📝 Quiz",
-        "endTime": 1612760400
+        "due": 1612760400
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Quiz 5",
         "type": "📝 Quiz",
-        "endTime": 1613970000
+        "due": 1613970000
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Quiz 6",
         "type": "📝 Quiz",
-        "endTime": 1614574800
+        "due": 1614574800
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Quiz 7",
         "type": "📝 Quiz",
-        "endTime": 1615179600
+        "due": 1615179600
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Quiz 8",
         "type": "📝 Quiz",
-        "endTime": 1615780800
+        "due": 1615780800
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Quiz 9",
         "type": "📝 Quiz",
-        "endTime": 1616385600
+        "due": 1616385600
     },
     {
-        "class": "ECE 106",
+        "course": "ECE 106",
         "name": "Quiz 10",
         "type": "📝 Quiz",
-        "endTime": 1616990400
+        "due": 1616990400
     }
 ]
