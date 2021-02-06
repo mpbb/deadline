@@ -402,16 +402,16 @@
         "due": 1614401940
     },
     {
-        "course": "ECE 140",
-        "name": "Lab 1",
-        "type": "🧪 Lab",
-        "due": 1611809940
-    },
-    {
         "course": "MATH 119",
         "name": "Sapling Assignment 2",
         "type": "📌 Assignment",
         "due": 1611723540
+    },
+    {
+        "course": "ECE 140",
+        "name": "Lab 1",
+        "type": "🧪 Lab",
+        "due": 1611809940
     },
     {
         "course": "ECE 106",
